@@ -11,7 +11,7 @@ import plotly.offline as ply
 #import plotly.plotly as py
 import plotly.figure_factory as ff
 
-df = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vR_srltDNEW2Y2_azCF__XfBf4qVIBz_--6O_bkbX151YBbXNb7sRJht2sJzAytv4b4NU8RrcXe3eDR/pub?output=csv')
+df = pd.read_csv('ENTER YOUR GOOGLE SHEET URL FROM FILE -> PUBLISH -> LINK AS CSV')
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
